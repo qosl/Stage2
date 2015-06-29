@@ -1,0 +1,2 @@
+^D:\MARM\STAGE2\STAGE2.MKB
+"D:\Marmalade\7.8\s3e\python\python.exe" "D:\Marmalade\7.8\s3e\makefile_builder\mkb.py" "d:/marm/Stage2/Stage2.mkb" "--default-buildenv=vc12x" --msvc-project

@@ -1,0 +1,26 @@
+#!/usr/bin/env mkb
+
+subprojects
+{
+    iw2d
+    modules/SoundEngine
+}
+
+files
+{
+    [source]
+    (source)
+    audio.cpp
+    input.cpp
+    main.cpp
+
+    audio.h
+    input.h
+}
+
+assets
+{
+    (data)
+    textures
+    audio
+}
